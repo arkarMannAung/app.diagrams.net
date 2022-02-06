@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-06T16:19:44.050Z" agent="5.0 (X11)" etag="_VDluBee1OL4W6uq9zBi" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-06T16:21:09.922Z" agent="5.0 (X11)" etag="y3EA4CLAPp4294ftPpO7" version="16.5.3" type="github">
   <diagram id="vgisI2ooYQM5d80KD6zA" name="Page-1">
-    <mxGraphModel dx="2321" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1880" dy="1684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -387,10 +387,10 @@
         <mxCell id="1cKoUGkLe3tbQsXoUSwH-136" value="&lt;font style=&quot;font-size: 25px&quot;&gt;Fashion Diary&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#3333FF;" vertex="1" parent="1">
           <mxGeometry x="241" width="367" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1cKoUGkLe3tbQsXoUSwH-137" value="dead_line" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1cKoUGkLe3tbQsXoUSwH-137" value="&lt;font style=&quot;font-size: 10px&quot;&gt;dead_line&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="93" y="100" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1cKoUGkLe3tbQsXoUSwH-138" value="date" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1cKoUGkLe3tbQsXoUSwH-138" value="&lt;font style=&quot;font-size: 10px&quot;&gt;date&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="203" y="100" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1cKoUGkLe3tbQsXoUSwH-139" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
